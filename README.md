@@ -1,2 +1,2 @@
-# Templates
-My-Templates in Html and Css
+# lean | Templates
+Using Html5 and Css3 (Responsive website)
